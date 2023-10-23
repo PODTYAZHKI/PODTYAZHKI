@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PODTYAZHKI (Sergey Muzychuk)
 - 👀 I’m interested in frontend developing
 - 🌱 I’m currently learning Vue.js and React.js
-- 📫 How to reach me: smmuzychuk@miem.hse.ru
+- 📫 How to reach me: smmuzychuk@gmail.com
 
 <!---
 PODTYAZHKI/PODTYAZHKI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
