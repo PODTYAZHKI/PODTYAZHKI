@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PODTYAZHKI (Sergey Muzychuk)
-- 👀 I’m interested in frontend developing
-- 🌱 I’m currently learning Vue.js and React.js
+- 👀 I’m interested in backend developing
+- 🌱 I’m currently learning Golang
 - 📫 How to reach me: smmuzychuk@gmail.com
 
 <!---
